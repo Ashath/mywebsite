@@ -14,5 +14,7 @@ updating readme from branch update-readme another time
 
 updating readme on master on github before rebase
 
+updating readme on default develop on github to course conflict
+
 
 updating readme on default develop from local to make conflict intntionally
